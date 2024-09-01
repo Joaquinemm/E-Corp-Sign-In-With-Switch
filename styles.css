@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(35, 35, 35);
+}
+
+.logo-div{
+    width: 100%;
+    height: 10%;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.e_corp_logo_big{
+    width: 15%;
+}
+
+.form_div{
+    width: 90%;
+    height: 40%;
+    text-align: center;
+    margin-left: 3%;
+}
+
+form{
+    width: 50%;
+    margin-top: 4%;
+    text-align: center;
+    margin-left: 25%;
+    background-color: rgb(24, 24, 24);
+    padding: 2%;
+    padding-bottom: 4%;
+
+
+}
+
+input{
+    width: 50%;
+}
+
+.form_text{
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+}
+
+.forgot{
+    text-align: left;
+    margin-left: 13%;
+    font-size: 90%;
+    font-family: serif;
+    color: #0066CC;
+}
+
+.button{
+    margin-top: 5%;
+    font-family: sans-serif;
+}
+
+.pass_text{
+    margin-top: 6%;
+}
+
+.hola{
+    font-family: sans-serif;
+    font-weight: 500;
+    background-color: transparent;
+    color: rgba(255, 255, 255, 0.833);
+    border: 0;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.865);
+}
+
+.switch{
+    width: 4em;
+}
+
